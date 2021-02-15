@@ -3,10 +3,10 @@
     "revision": "8ece09ca4c0b5e59b124cd19fa92c76b1a9e9dd4"
   },
   "c": {
-    "revision": "80b6b748e612d5831a3d5fe296c5a39b95ecb7bb"
+    "revision": "8d4631b673f8a9d968d1d93393c0a965194abac0"
   },
   "c_sharp": {
-    "revision": "bf827da9c4ed0950ebb3573db353f115e6b4db8f"
+    "revision": "9e33bc572055057bb1ceee1b28d6245d80e78ec3"
   },
   "clojure": {
     "revision": "f09652f095be878df8a87a57dcbfa07094316253"
@@ -15,7 +15,7 @@
     "revision": "a35a275df92e7583df38f2de2562361f2b69987e"
   },
   "css": {
-    "revision": "23f2cb97d47860c517f67f03e1f4b621d5bd2085"
+    "revision": "e882c98b5e62d864f7f9e4d855b19b6050c897a8"
   },
   "dart": {
     "revision": "9432021ba6e96124ff1b6bd91f79c0a2e3c87cf4"
@@ -24,7 +24,7 @@
     "revision": "14055bd46b383d18ebc9db219f8f6b048455ae04"
   },
   "elm": {
-    "revision": "117dcf4cdc6145aa453b45e9e53319e79675ee4e"
+    "revision": "6b9c2e44c2e86bd6a738d2f2776cc89f73456b5c"
   },
   "erlang": {
     "revision": "7b436e1ca50f0002f6765a9a2a00f6156b2cc881"
@@ -59,6 +59,9 @@
   "json": {
     "revision": "d3976b27df8622ed17bef6dd5e358b398e73c676"
   },
+  "jsonc": {
+    "revision": "14ff22d8e4856e690a85b3a7a225211533c0dadf"
+  },
   "julia": {
     "revision": "6a0863f1ce3fcf6f99dc0addb7886dcbd27c5a48"
   },
@@ -66,7 +69,7 @@
     "revision": "b72933c0c0ff25f2de35bb3acabfe6979333187e"
   },
   "ledger": {
-    "revision": "f88c0533baa1d6c25dcc5ebacc3213d3db75eb7b"
+    "revision": "0ebd40ace530921ec29b798be7b24f7a3975383a"
   },
   "lua": {
     "revision": "97b757ad3546d68dc1131e6ffb9b1d2a750eea29"
@@ -99,7 +102,7 @@
     "revision": "be2e415b5716615530234d179dc27c32b7a1d86b"
   },
   "rst": {
-    "revision": "cdbe731d05eee686ef799dee8f4e46742a12b4c9"
+    "revision": "63b8e3381d1105fc54c40ef54f8b7c95e27f2bc8"
   },
   "ruby": {
     "revision": "1fa06a9ea8532892e7dd30c8820390beec6dd132"
