@@ -350,15 +350,14 @@ list.rst = {
   },
   maintainers = {"@stsewd"},
 }
-
-list.fennel = {
-  install_info = {
---    url = "https://github.com/travonted/tree-sitter-fennel",
-    url = "/Users/harry/Projects/tree-sitter/grammars/tree-sitter-fennel",
-    files = { "src/parser.c", "src/scanner.c" },
-  },
-  maintainers = {'@harrygallagher4'},
-}
+--
+-- list.fennel = {
+--   install_info = {
+--     url = "https://github.com/travonted/tree-sitter-fennel",
+--     files = { "src/parser.c", "src/scanner.c" },
+--   },
+--   maintainers = {'@harrygallagher4'},
+-- }
 
 list.teal = {
   install_info = {
